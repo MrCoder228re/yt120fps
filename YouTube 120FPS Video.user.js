@@ -2,8 +2,8 @@
 // @name         YouTube 120FPS Video
 // @namespace    https://github.com/MrCoder228re/yt120fps
 // @version      0.2
-// @updateURL    /helper.meta.js
-// @downloadURL  /helper.user.js
+// @updateURL    https://github.com/MrCoder228re/yt120fps/raw/main/YouTube%20120FPS%20Video.meta.js
+// @downloadURL  https://github.com/MrCoder228re/yt120fps/raw/main/YouTube%20120FPS%20Video.user.js
 // @description  120FPS video on YouTube!
 // @author       DiopinYT
 // @match        *://*.youtube.com/*
