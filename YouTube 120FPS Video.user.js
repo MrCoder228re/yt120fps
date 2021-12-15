@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube 120FPS Video
-// @namespace    http://api.diopinyt.xyz/yt120fps
+// @namespace    https://github.com/MrCoder228re/yt120fps
 // @version      0.2
 // @updateURL    /helper.meta.js
 // @downloadURL  /helper.user.js
